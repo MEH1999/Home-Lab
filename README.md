@@ -60,7 +60,7 @@ My Journey in Information technology has led me to develop a passion for cyberse
 
   https://www.credly.com/badges/426120eb-6414-4f4f-abe8-75805ecc8eb0/linked_in_profile
   
-<img src="https://www.credly.com/badges/426120eb-6414-4f4f-abe8-75805ecc8eb0/linked_in_profile" />
+<img src= "https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
