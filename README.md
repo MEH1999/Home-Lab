@@ -6,19 +6,19 @@ Building a ProxMox Homelab with Virtual Machines and be its own Standalone VPN a
 
 [Brief Introduction - Remove this afterwards]
 
-Recent Graduate from Towson University with a B.S. Information Technology Degree. I have a passion for Quality Assurance. Data Analysis, and Information Technology with an interest in cybersecurity & system administration work.
-Currently, Working at COOP as  a Data Analytics Captain as a Former Alumni, I participated in the program. I gained meaningful connections in the Data Industry paired with the ad agency space.
+Recent Graduate from Towson University with a B.S. Information Technology Degree. I have a passion for Quality Assurance. Data Analysis, and Information Technology with an interest in cybersecurity & system administration work. I started as an IT Analyst intern at Helping Hand for Relief & Development, where I truly applied my skills from my degree to then translate to my next role. I then started working at TEKsystems on a contract with Venable LLP, where I gained invaluable insights into how a law firm's IT operates. I started as a Service Desk Analyst & then was promoted to Senior IT Analyst, where I did data analysis reporting on worker productivity and process improvement. Including, training new team members and updating learning material.
+Currently, Working at COOP as  a Data Analytics Captain as a Former Alumni, I participated in the program where I gained meaningful connections in the Data Industry paired with the ad agency space.
 
 ## Objective
 
-My Journey in Information technology has led me to develop a passion for cybersecurity, data analysis, and quality assurance. I am now eager to transition into any of those fields as most of the skills in each position go hand in hand, specifically aiming to join as a System Admin, Data Analyst, or Quality Assurance Tester.
+My Journey in Information technology has led me to develop a passion for cybersecurity, data analysis, and quality assurance. I am now eager to transition into any of those fields as most of the skills in each position go hand in hand, specifically aiming to join as a System Admin, Business/Data Analyst, or Quality Assurance Tester.
 
 ## Skills
 [Provide skills and associated projects. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| HomeLab         | <a href="https://google.com">Detection Lab</a>|
+| HomeLab         | <a href="https://google.com">HomeLab</a>|
 | Data Visualization w Cleaning & Analysis| <a href="https://google.com">Detection Lab</a>|
 | Quality Testing a E-Commerce Site   | SOC Automation Lab|
 
